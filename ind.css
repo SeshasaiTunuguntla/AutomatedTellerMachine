@@ -1,0 +1,10 @@
+.rutu :hover{
+    
+    display:block;
+    margin:17px;
+    font-size: 20px;
+    transition:all .45s ease;
+    color:var(--text-color);
+
+
+}
